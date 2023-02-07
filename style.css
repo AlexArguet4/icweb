@@ -57,7 +57,7 @@ img.logo{
 .menu_items li a{
     padding: 7px 13px;
     text-decoration: none;
-    font-size: 20px;
+    font-size: 18px;
     font-weight: bold;
     display: block;
     color: aliceblue;
@@ -72,10 +72,17 @@ img.logo{
 }
 
 .main{
-    padding-top: 200px;
+    padding-top: 150px;
     align-items: center;
   }
   
   p{
     font-size: x-large;
   }
+  .redes{
+    padding-top:10%;
+  }
+ img{
+    margin: 5%;
+ }
+  
