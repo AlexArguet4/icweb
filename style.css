@@ -9,13 +9,20 @@ body{
     background-color: #000;
 }
 
+h1 {
+    color: azure;
+}
 
 P{
     color: azure;
 
  }
+ .alert {
+    background: #ff0090;
+ }
+ 
 
- .container{
+.container{
     width: 85%;
     max-width: 1500px;
     margin: 0 auto;
